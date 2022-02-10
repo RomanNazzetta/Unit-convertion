@@ -37,6 +37,8 @@ h3{
     height: 38px;
     left: 51px;
     top: 53px;
+    background-color: #1f293700;
+    margin: 0px;
     
 }
 
@@ -57,4 +59,19 @@ h3{
 
 .downdivtext{
     text-align: center;
+}
+.boton{
+    display: flex;
+    padding-left: 50px;
+    margin: 100px;
+    
+    
+}
+.btn-ench{
+    color: #fff;
+    background-color: #1F2937;
+    display: flex;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: none;
 }
